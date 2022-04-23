@@ -14,6 +14,8 @@ public class CartPage {
 	public static void main(String[] args) {
 		int i=10;
 		System.out.println("i");
+		String f1= "Feature f1";
+		System.out.println(f1);
 
 	}
 
